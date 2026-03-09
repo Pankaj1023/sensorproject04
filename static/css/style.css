@@ -1,0 +1,65 @@
+
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+/* Title */
+.title{
+    text-align:center;
+    margin-top:20px;
+}
+
+/* Main frame */
+.frame{
+    width:400px;
+    margin:40px auto;
+    background:#ffffff;
+    padding:30px;
+    border-radius:8px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+/* Center content */
+.center{
+    text-align:center;
+}
+
+/* Dropzone area */
+.dropzone{
+    border:2px dashed #3498db;
+    padding:25px;
+    border-radius:6px;
+    background:#fafafa;
+    margin-top:15px;
+}
+
+/* Upload icon */
+.Upload-icon{
+    width:60px;
+    margin-bottom:10px;
+}
+
+/* File input */
+.Upload-input{
+    margin-top:10px;
+}
+
+/* Button */
+.btn{
+    margin-top:20px;
+    padding:10px 20px;
+    background:#3498db;
+    color:#fff;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:16px;
+}
+
+.btn:hover{
+    background:#2980b9;
+}
+
