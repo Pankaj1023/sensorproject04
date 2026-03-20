@@ -1,7 +1,20 @@
+<<<<<<< HEAD
 flask
+=======
+Flask==2.2.3
+Werkzeug==2.2.2
+>>>>>>> b0ea420c3b374be3df31b937f73f5eb2153d0781
 gunicorn
 pandas
 numpy
 scikit-learn
+<<<<<<< HEAD
 xgboost
 boto3
+=======
+python-dotenv
+pymongo
+pyyaml
+boto3
+xgboost==1.7.6
+>>>>>>> b0ea420c3b374be3df31b937f73f5eb2153d0781
