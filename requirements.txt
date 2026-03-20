@@ -5,3 +5,4 @@ numpy
 scikit-learn
 python-dotenv==0.21.0
 gunicorn
+pymongo
