@@ -1,5 +1,11 @@
-streamlit
+Flask==2.2.3
+Werkzeug==2.2.2
 pandas
 numpy
 scikit-learn
-xgboost
+python-dotenv==0.21.0
+gunicorn
+pymongo
+pyyaml
+boto3
+xgboost==1.7.6
