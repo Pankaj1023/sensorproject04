@@ -7,3 +7,4 @@ python-dotenv==0.21.0
 gunicorn
 pymongo
 pyyaml
+boto3
