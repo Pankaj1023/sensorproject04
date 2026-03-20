@@ -1,10 +1,4 @@
-Flask==2.2.3
-Werkzeug==2.2.2
+streamlit
 pandas
 numpy
 scikit-learn
-python-dotenv==0.21.0
-gunicorn
-pymongo
-pyyaml
-boto3
