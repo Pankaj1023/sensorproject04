@@ -69,7 +69,7 @@ To run this project, the following setup is required:
 
 ### Step 1: Clone the Repository
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone Pankaj1023/sensorproject04 
 
 ### Step 2: Navigate to the Project Directory
 
